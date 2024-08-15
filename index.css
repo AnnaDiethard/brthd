@@ -11,7 +11,7 @@
 }
 
 html {
-    cursor: url('/img/cursor-min.png'), auto;
+    cursor: url('img/cursor-min.png'), auto;
 }
 
 body {
@@ -94,7 +94,7 @@ body {
 }
 
 .btn:hover {
-    cursor: url('/img/cursor-max.png'), auto;
+    cursor: url('img/cursor-max.png'), auto;
 }
 
 .btn:active {
